@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/rohit/Iterm2-to-XDefaults/src'
+let g:netrw_dirhist_2='/home/rohit/Iterm2-to-XDefaults'
+let g:netrw_dirhist_3='/home/rohit/.oh-my-zsh/custom/example'
