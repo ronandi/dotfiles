@@ -24,7 +24,7 @@ ZSH_THEME="nanotech"
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git vi-mode)
+plugins=(archlinux extract git vi-mode)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -54,3 +54,4 @@ alias du='du -c -h'
 alias ping='ping -c 3'
 alias mkdir='mkdir -p -v'
 alias sudo='sudo '
+alias c='clear'
